@@ -1,0 +1,16 @@
+.main-nav-bar{
+    background-color: #FFFFFF;
+}
+.nav-bar-logo{
+    margin-left: 80px;
+}
+.right-nav-bar{
+    margin-right: 90px;
+}
+
+.navbar-nav .nav-link {
+    margin: 10px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333333;
+}
