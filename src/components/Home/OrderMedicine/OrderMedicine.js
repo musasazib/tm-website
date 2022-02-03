@@ -44,6 +44,7 @@ const OrderMedicine = () => {
                     </div>
                 </div>
             </div>
+            <button className="btn-view">View All</button>
         </div>
     );
 };
