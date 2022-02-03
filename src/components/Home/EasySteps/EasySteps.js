@@ -4,12 +4,12 @@ import './EasySteps.css';
 const EasySteps = () => {
     return (
         <div>
+            <div>
+                <h1 className='easy-step-title'>Only Three Easy Steps to Follow</h1>
+                <p className='easy-step-description'>Lorem Ipsum is simply dummy text of the printing and typesetting <br />
+                    industry. Lorem Ipsum has been the industry's standard</p>
+            </div>
             <div className="row">
-                <div>
-                    <h1 className='easy-step-title'>Only Three Easy Steps to Follow</h1>
-                    <p className='easy-step-description'>Lorem Ipsum is simply dummy text of the printing and typesetting <br />
-                        industry. Lorem Ipsum has been the industry's standard</p>
-                </div>
                 <div className="col-12 col-md-6 easy-step-bg">
                     <img src="https://i.ibb.co/KhBXpD5/pngtree-new-transparent-mobile-mockup-png-image-and-vector-png-image-2632149-1.png" alt="" className="img-fluid rounded easy-step-img" />
                 </div>
