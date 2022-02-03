@@ -1,0 +1,50 @@
+.search-service{
+    background-image: linear-gradient(#F0F0F0 10px, #ffffff);
+}
+.container-content{
+    width: 400px;
+    height: 90px;
+    text-align: start;
+}
+.container-title{
+    margin-top: 145px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 200px;
+}
+.container-description{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 200px;
+}
+.btn-style{
+    background-color: #2CAEE2;
+    border-radius: 62px;
+    width: 267px;
+    height: 42px;
+    border: 1px white;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.app-store{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.app-store-margin{
+    margin-left: 28px;
+}
+.bg-img-1{
+    background-image: url( https://i.ibb.co/1TXhpTC/Vector-2.png );
+    background-repeat: no-repeat;
+}
+.image-style{
+    margin-top: 50px;
+    margin-bottom: 145px;
+}
+.bg-img-2{
+    background-image: url(https://i.ibb.co/Z6CvGCn/Vector-1.png);
+    background-repeat: no-repeat;
+}

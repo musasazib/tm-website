@@ -16,7 +16,7 @@ const Header = () => {
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
-                            <Navbar.Brand href="#"><img src="https://i.ibb.co/kBLy8T6/Logo-4.png" alt="" /></Navbar.Brand>
+                            <Navbar.Brand href="#"><img className='logo-style' src="https://i.ibb.co/kBLy8T6/Logo-4.png" alt="" /></Navbar.Brand>
                         </Nav>
 
 
