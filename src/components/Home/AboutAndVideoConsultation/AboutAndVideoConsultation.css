@@ -38,13 +38,14 @@
 .img-style{
     width: 565px;
     height: 595px;
-    margin-bottom: 65px;
+    /* margin-bottom: 65px; */
 }
 .video-details-style{
     margin-left: 160px;
 }
 .video-style{
     margin-top: 80px;
+    margin-bottom: 45px;
     background-image: url(https://i.ibb.co/3s5Jnjr/Vector-4.png);
     background-repeat: no-repeat;
 }

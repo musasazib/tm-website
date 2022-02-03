@@ -1,0 +1,22 @@
+.choose-title{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    margin-top: 60px;
+}
+.choose-description{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}
+.item-title{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 15px;
+    margin-bottom: 16px;
+}
+.item-description{
+    font-size: 14px;
+    line-height: 24px;
+}
