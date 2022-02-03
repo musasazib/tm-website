@@ -1,0 +1,50 @@
+.about-title{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+}
+.about-video-description{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.about-video-details{
+    margin-top: 124px;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: start;
+}
+.about-video-btn-style{
+    width: 180px;
+    height: 42px;
+    border-radius: 72px;
+    border: 1px white;
+    color: white;
+    background-color: #2CAEE2;
+    margin-top: 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.video-title{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    margin-top: -60px;
+}
+.img-style{
+    width: 565px;
+    height: 595px;
+    margin-bottom: 65px;
+}
+.video-details-style{
+    margin-left: 160px;
+}
+.video-style{
+    margin-top: 80px;
+    background-image: url(https://i.ibb.co/3s5Jnjr/Vector-4.png);
+    background-repeat: no-repeat;
+}
