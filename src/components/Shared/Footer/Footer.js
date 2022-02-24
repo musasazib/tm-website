@@ -35,6 +35,7 @@ const Footer = () => {
                         <a href="sazib">Contact Us</a> <br />
                     </div>
                     <br />
+                    {/* ------------- */}
                     <br />
                     <h5>Download Our App</h5>
                 </div>
